@@ -15,6 +15,7 @@ const Login = () => {
           //  src="https://occ-0-3215-3662.1.nflxso.net/dnm/api/v6/6AYY37jfdO6hpXcMjf9Yu5cnmO0/AAAABdRqKiXHyqqjFMqNjaS7GKzraC2JkmvZi8Mdxik0cbe8FjA78wDxvwquIbD-Ug4156MGkFEE-LzUn2P4z1in1_yM4GSDhAf2U8g2.webp?r=623"
           src="https://occ-0-3215-3662.1.nflxso.net/dnm/api/v6/6AYY37jfdO6hpXcMjf9Yu5cnmO0/AAAABTwGlS1EXgzsHCHIwb670aZGbIN8d9IMfB9PQLbw4SKZTefztKRvSGUlrBy1h0sOWgopxuBB4vQOHgKNUsBDCidndFHB0eF7OeWo.webp?r=1a0"
         />
+        
       </div>
       <div className="absolute inset-0 flex items-center justify-center z-50 ">
         <form className="bg-black/60 p-14 pb-25 pt-20 rounded-md w-100 text-white ">
