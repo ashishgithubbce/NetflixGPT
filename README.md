@@ -22,6 +22,7 @@ Optimized parsing & transformation or Bundler(many files to few files) + transfo
 
 3. Features:
    Browse :
+
    1. Header
       2.main movie/popular movie
       --bg movie image
@@ -30,10 +31,14 @@ Optimized parsing & transformation or Bundler(many files to few files) + transfo
    2. Movie suggestion based on category
       -- Movie list\*N
       --Each list --horizontally scrollable
-4. Login signin/signup page
-   --- redirect to browse page
+   3. Login signin/signup page
+      --- redirect to browse page
 
-5. Netflix gpt
-   -- search bar
-   -- movie suggestion
-   =======
+   4. Netflix gpt
+      -- search bar
+      -- movie suggestion
+      =======
+
+4. Routing setup
+5. login form ->sign in /sign up
+6. form validation : can use formic library

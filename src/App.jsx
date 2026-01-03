@@ -1,11 +1,17 @@
-import "./App.css";
+
+import Body  from "./components/Body"
+import Login  from "./components/Login"
+import Browse from "./components/Browse"
+import {Routes,Route} from "react-router-dom"
 
 function App() {
   return (
     <>
-      <h1 className="font-bold text-green-800 text-4xl text-center">Hello World!!</h1>
+     <Routes>
+       <Route path="/" element={<Login/>}/>
+       <Route path="/browse" element={<Browse />} />
+     </Routes>
     </>
   );
 }
-
 export default App;
